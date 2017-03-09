@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/EchoNine/Multil4ng-f0rk-bomb5/blob/master/fo-rk.png">
+<img src="https://github.com/EchoNine/Multil4ng-f0rk-bomb5/blob/master/fo-rk.gif">
 </p>
 
 
