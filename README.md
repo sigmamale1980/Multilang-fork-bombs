@@ -8,7 +8,7 @@
 # Fork Bombs
 =============
 
-* in most supported language.
+* in most supported languages.
 
 * Current languages:
 
