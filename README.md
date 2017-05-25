@@ -8,9 +8,11 @@
 # Fork Bombs #
 
 
-* in most supported languages.
+# In most supported languages #
 
-* Current languages:
+
+
+Current languages:
 
  - C
  - Assembly
