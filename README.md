@@ -4,9 +4,9 @@
 
 
 
-=============
-# Fork Bombs
-=============
+
+# Fork Bombs #
+
 
 * in most supported languages.
 
@@ -34,7 +34,7 @@
 
 
 
-==============================
+
 DISCLAIMER:
 
 * These scripts are for educational & pentesting purposes only. 
